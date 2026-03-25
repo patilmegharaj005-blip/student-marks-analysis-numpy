@@ -23,10 +23,6 @@ This project focuses on analyzing student marks using NumPy. It demonstrates how
 
 ---
 
-## 📁 Project Structure
-
----
-
 ## 📊 Key Insights
 - Computed overall and subject-wise performance  
 - Identified trends in student scores  
